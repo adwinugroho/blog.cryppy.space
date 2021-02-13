@@ -1,4 +1,4 @@
-title = "Cryppy | Blog"
+title = "Cryppy's Blog"
 baseURL = "https://blog.cryppy.space/"
 theme = "bilberry-hugo-theme"
 
@@ -6,7 +6,7 @@ theme = "bilberry-hugo-theme"
 enableRobotsTXT = true
 
 # Change to one of your content languages definded at the end.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "id"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
