@@ -10,10 +10,10 @@ showDate: false
 
 ### Adwin Nugroho Siswyo
 
-Panggil saja Adwin, lahir dan besar di Samarinda, Indonesia. Sekarang bekerja sebagai _Backend Engineer_ di **Diacon Medica Technologies**. Lulusan Teknik Informatika Universitas Muhammadiyag Malang, mulai mengenal dunia _programming_ dengan membuat aplikasi kasir menggunakan Visual Basic 6.0.
-
+You can call me Adwin, born and raised at Samarinda, Indonesia. Currently I working at **Diacon Medica Technologies** as a backend developer. I graduated from University of Muhammadiyah Malang with a bachelor's degree in Informatics Engineering. My first project as a software engineer was create an cashier and online booking system with Visual Basic 6.0.
 ![Online Booking with VB6](/image/content/page/about/project_1.png)
 
-Aktif mengikuti lomba-lomba tentang _technology_ ketika masih kuliah seperti **Program Kreativitas Mahasiswa, Gemastik**. Sangat menyukai topik tentang _health care_ sekarang hanya fokus pada _web development_ menggunakan _GoLang_  membuat _rest API_ dan sesekali iseng-iseng bermain _Python_ dan _R Programming_ untuk _data science_.
+During college I was actively participated in competitions in the field of tech such as **Program Kreativitas Mahasiswa, Gemastik**.
+I really like the topic of research on health informatics, I always dreaming can help people, although I'm not a doctor. Now i'm just focusing on microservices, web development with GoLang, and sometimes do random stuff with python and R for data science.
 
-**In case you need to contact me, please email at adwinnugroho16@gmail.com** **or DM my telegram at** [Telegram](https://t.me/adwinugroho/)
+**In case you need to contact me, please email at adwinnugroho16@gmail.com** **or DM my telegram at** [my telegram](https://t.me/adwinugroho/)
