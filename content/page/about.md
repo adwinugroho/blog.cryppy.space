@@ -1,5 +1,5 @@
 ---
-title: "Tentang Penulis"
+title: "About Me"
 date: 2021-02-14T21:51:54+08:00
 draft: false
 excludeFromTopNav: false
