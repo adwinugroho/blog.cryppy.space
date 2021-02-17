@@ -6,7 +6,7 @@ theme = "bilberry-hugo-theme"
 enableRobotsTXT = true
 
 # Change to one of your content languages definded at the end.
-DefaultContentLanguage = "id"
+DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -125,9 +125,9 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Adwin theme by Lednerb"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
+    copyrightYearOverride = "2021"
     copyrightUrl = "https://github.com/Lednerb"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
