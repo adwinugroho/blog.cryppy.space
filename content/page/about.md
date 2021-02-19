@@ -24,7 +24,7 @@ Here are a few technologies mostly I use on daily basis:
 * R                         * MySQL                 * Postman           * Redis
 * CSS, HTML & JavaScript    * Nats                                      * Postgree SQL
                             * Docker                                    * gRPC
-                            * Django
+                            * Django                                    * Cloud computing
 
 
 **In case you need to contact me, please email at adwinnugroho16@gmail.com** **or DM my telegram at** [my telegram](https://t.me/adwinugroho/)
