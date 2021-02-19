@@ -18,7 +18,11 @@ I really like the topic of research on health informatics, I always dreaming can
 
 
 Here are a few technologies mostly I use on daily basis:
+
+
 **Languages**                                      
+
+
 * Go                                    
 * Python                                              
 * R                                                     
@@ -26,6 +30,8 @@ Here are a few technologies mostly I use on daily basis:
 
 
 **Backend**
+
+
 * Go Echo Framework
 * ArangoDB
 * MySQL
@@ -35,12 +41,16 @@ Here are a few technologies mostly I use on daily basis:
 
 
 **Tools**
+
+
 * VSCode
 * Postman
 * Git/Github
 
 
 **Currently learning**
+
+
 * R
 * Python
 * Redis
