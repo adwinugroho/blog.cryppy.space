@@ -18,14 +18,35 @@ I really like the topic of research on health informatics, I always dreaming can
 
 
 Here are a few technologies mostly I use on daily basis:
-<ul>Languages                 <ul>Backend                   <ul>Tools             <ul>Currently learning
-<li>Go</li>                   <li>Go Echo Framework</li>    <li>Git/Github</li>   <li>R</li>
-<li>Python</li>               <li>ArangoDB</li>             <li>VSCode</li>       <li>Python</li>
-<li>R</li>                    <li>MySQL</li>                <li>Postman</li>      <li>Redis</li>
-<li>CSS, HTML, JS</li>        <li>Nats</li>                 </ul>                 <li>Postgree SQL</li>
-</ul>                         <li>Docker</li>                                     <li>gRPC</li>
-                              <li>Django</li>                                     <li>Cloud computing</li> 
-                              </ul>                                               </ul>
+**Languages**                                      
+* Go                                    
+* Python                                              
+* R                                                     
+* CSS, HTML & JavaScript    
+
+
+**Backend**
+* Go Echo Framework
+* ArangoDB
+* MySQL
+* Nats
+* Docker
+* Django
+
+
+**Tools**
+* VSCode
+* Postman
+* Git/Github
+
+
+**Currently learning**
+* R
+* Python
+* Redis
+* Postgree SQL
+* gRPC 
+* Cloud computing
 
 
 **In case you need to contact me, please email at adwinnugroho16@gmail.com** **or DM my telegram at** [my telegram](https://t.me/adwinugroho/)
