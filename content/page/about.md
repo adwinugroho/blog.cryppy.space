@@ -22,7 +22,6 @@ Here are a few technologies mostly I use on daily basis:
 
 **Languages**                                      
 
-
 * Go                                    
 * Python                                              
 * R                                                     
@@ -31,17 +30,15 @@ Here are a few technologies mostly I use on daily basis:
 
 **Backend**
 
-
 * Go Echo Framework
 * ArangoDB
 * MySQL
-* Nats
+* Nats.io (message broker)
 * Docker
 * Django
 
 
 **Tools**
-
 
 * VSCode
 * Postman
@@ -49,7 +46,6 @@ Here are a few technologies mostly I use on daily basis:
 
 
 **Currently learning**
-
 
 * R
 * Python
