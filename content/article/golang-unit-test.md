@@ -40,3 +40,19 @@ menit 33
 ---- Assertion -----
 Pengecekan secara auto
 *nama librarynya testify
+----- testing main -----
+dalam satu package bisa dijalankan semua test-nya dengan membuat func TestingMain(m *Testing.M)
+contoh:
+```go
+func TestMain(m *testing.M) {
+    before
+    fmt.Println("before unit tes")
+    m.Run()
+    fmt.Println("after unit tes")
+}
+```
+dengan begitu kita dapat membuat before dan after test (misalnya sebelum eksekusi connect ke DB)
+----- testing sub test -----
+kita dapat membuat func test di dalam func test
+login dari luar
+sama bikin user
