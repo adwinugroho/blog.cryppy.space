@@ -4,7 +4,7 @@ date: 2021-07-01T18:44:58+08:00
 draft: false
 
 categories: ["Golang", "Tutorial"]
-tags: ["golang basic"]
+tags: ["golang basic",  "golang tutorial", "generate random number", "membuat angka acak"]
 toc: false
 author: "Adwin"
 ---
