@@ -1,7 +1,7 @@
 ---
 title: "Generate Random String"
 date: 2021-07-03T18:51:34+08:00
-draft: true
+draft: false
 
 categories: ["Golang", "Tutorial"]
 tags: ["golang basic",  "golang tutorial", "generate random string", "membuat huruf acak"]
